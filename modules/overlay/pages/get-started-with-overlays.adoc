@@ -10,7 +10,11 @@ Users can use Google Chrome to open the overlay URL and then cast it to a chrome
 
 ## Practical
 
-### Step 1: Pick an Overlay
+### Step 1: Use the Overlay URL
+
+The Overlay URL can be used in a browser. E.g. open and use a browser on a second projector or add a browser to live stream broadcast software. In both examples, the Overlay URL will point to the customized overlay.
+
+### Step 2: Pick an Overlay
 
 In _Shabad OS > Settings > Overlay_ there is a dropdown called _Overlay Name_. This allows users to change the appearance of an overlay. There are overlay themes for presentation, top captions, and subtitles.
 
@@ -20,13 +24,9 @@ TIP: Overlays are designed around filling the screen, but a broadcast element co
 
 TIP: xref:overlay:create-a-custom-overlay-theme.adoc[Customize] an overlay with the provided example overlay.
 
-### Step 2: Toggle visible information
+### Step 3: Toggle visible information
 
 Similar to choosing what is available on the presenter, a user toggles fields for the overlay. If one were using the Shabad OS display on one projector they could use the overlay on another projector to show different fields when presenting on two projectors (i.e. gurbani + punjabi on left screen and gurbani + english translation and pronunciation on right screen).
-
-### Step 3: Use the Overlay URL
-
-The Overlay URL can be used in a browser. E.g. open and use a browser on a second projector or add a browser to live stream broadcast software. In both examples, the Overlay URL will point to the customized overlay.
 
 ## Troubleshooting
 
